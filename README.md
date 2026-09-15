@@ -13,8 +13,7 @@ Exit Velocity、Hard-Hit%、Barrel%、xSLGなどから、
 ## note記事
 
 分析内容の詳細はこちら：
-
-
+https://note.com/tome_baseball/n/ncd6a8c7e587e?app_launch=false
 
 ## 使用技術
 
